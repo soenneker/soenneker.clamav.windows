@@ -39,6 +39,7 @@
     <ItemGroup>
         <None Include="..\..\README.md" Pack="true" PackagePath="\" />
         <None Include="..\..\LICENSE" Pack="true" PackagePath="\" />
+        <None Include="..\..\THIRD-PARTY-NOTICES.md" Pack="true" PackagePath="\" />
         <None Include="..\..\icon.png" Pack="true" PackagePath="\" />
         <None Include="Resources\win-x64\clamav\**\*" Pack="true" PackageCopyToOutput="true"
               PackagePath="contentFiles/any/any/Resources/win-x64/clamav/" BuildAction="None" />
