@@ -18,6 +18,6 @@ This package contains Windows x64 assets only. Most applications should referenc
 
 ## Licensing and source
 
-This package redistributes official ClamAV binaries, which are licensed under GPL-2.0-only. The NuGet package includes the GPL v2 text, ClamAV's upstream `COPYING.txt`, and the `COPYING/` directory containing notices for bundled third-party components.
+This package redistributes official ClamAV binaries, which are licensed under GPL-2.0-only. The NuGet package includes a root licensing notice, ClamAV's upstream `COPYING.txt` containing the complete GPL v2 text, and the `COPYING/` directory containing notices for bundled third-party components.
 
 The runtime's `SOURCE.txt` identifies its exact upstream binary asset, release, and corresponding source archive. See [Cisco-Talos/clamav releases](https://github.com/Cisco-Talos/clamav/releases) for upstream release materials.

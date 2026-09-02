@@ -1,6 +1,6 @@
-Get-Content: 
-Line |
-   2 |  Get-Content -Raw -LiteralPath C:\git\_tmp\clamav-inspect-win-154\clam …
-     |  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-     | Unable to get content because it is a directory: 'C:\git\_tmp\clamav-inspect-win-154\clamav-1.5.4.win.x64\COPYING'. Please use 'Get-ChildItem' instead.
+The redistributed ClamAV runtime is licensed under GPL-2.0-only.
 
+The complete upstream GPL v2 license text is included as COPYING.txt in the packaged runtime. Upstream license and third-party notices are also preserved in the runtime's COPYING directory.
+
+SPDX license identifier: GPL-2.0-only
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
